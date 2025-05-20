@@ -1,0 +1,12 @@
+[
+  {
+    "user": "john",
+    "pass": "1234",
+    "type": "vip"
+  },
+  {
+    "user": "guest",
+    "pass": "guest123",
+    "type": "free"
+  }
+]
